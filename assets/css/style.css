@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2023 codewithsadee
+ * copyright 2023 
  */
 
 
@@ -13,6 +13,19 @@
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
+
+.header h1{
+  margin-left: 200px;
+
+}
+
+.head{
+  font-family: 'Coustard', serif;
+  font-weight: bolder;
+  margin-left: 50px;
+  font-size: 30px;
+  
+}
 
 :root {
 
@@ -25,12 +38,12 @@
     --white-alpha-20: hsl(35, 100%, 22%);
     --on-background: hsla(220, 100%, 95%, 1);
     --on-surface: hsla(250, 100%, 95%, 1);
-    --on-surface-variant: hsl(35, 100%, 22%);
+    --on-surface-variant: hsl(0, 0%, 0%);
     --primary: hsla(349, 100%, 43%, 1);
     --primary-variant: hsla(349, 69%, 51%, 1);
     --rating-color: hsla(44, 100%, 49%, 1);
     --surface: rgb(255, 168, 81);
-    --text-color: hsl(35, 100%, 22%);
+    --text-color: hsl(0, 0%, 100%);
     --white: hsla(0, 0%, 100%, 1);
   
     /* gradient colors */
