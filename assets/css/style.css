@@ -25,12 +25,12 @@
     --white-alpha-20: hsl(35, 100%, 22%);
     --on-background: hsla(220, 100%, 95%, 1);
     --on-surface: hsla(250, 100%, 95%, 1);
-    --on-surface-variant: hsla(250, 1%, 44%, 1);
+    --on-surface-variant: hsl(35, 100%, 22%);
     --primary: hsla(349, 100%, 43%, 1);
     --primary-variant: hsla(349, 69%, 51%, 1);
     --rating-color: hsla(44, 100%, 49%, 1);
     --surface: rgb(255, 168, 81);
-    --text-color: hsla(250, 2%, 59%, 1);
+    --text-color: hsl(35, 100%, 22%);
     --white: hsla(0, 0%, 100%, 1);
   
     /* gradient colors */
